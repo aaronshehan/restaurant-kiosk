@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a214da2-97ca-4556-9cb8-d84f2a411107" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/customerApp/__tests__/App-test.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/customerApp/__tests__/App-test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/customerApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/customerApp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/customerApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/customerApp/package.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1at3lm42Mgpp4anY9Ts2yVY6bh6" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a214da2-97ca-4556-9cb8-d84f2a411107" name="Default Changelist" comment="" />
+      <created>1583957180227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583957180227</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Prototype functions to change and view Help status of tables.">
+      <created>1586032442278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586032442279</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New files added for revenue and help functions.">
+      <created>1586393434565</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586393434565</updated>
+    </task>
+    <task id="LOCAL-00003" summary="TEST PUSH: Editing functions in revenue.">
+      <created>1586394808947</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586394808948</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New functions in helpfunctions.js.">
+      <created>1586399185540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586399185540</updated>
+    </task>
+    <task id="LOCAL-00005" summary="revenue.js: help needed on update functions.">
+      <created>1586408792092</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586408792092</updated>
+    </task>
+    <task id="LOCAL-00006" summary="revenue.js: spell checking.&#10;helpfunctions.js: tableHelped should change value to 0 to set table as no longer needing help">
+      <created>1586550049261</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586550049261</updated>
+    </task>
+    <task id="LOCAL-00007" summary="App-test.js: Copied/edited functions from customer app for testing&#10;coupon.js: Changed spelling of validateCoupont() to validateCoupon()&#10;menu_operations.js: added async to add/remove functions, spellchecking&#10;orders.js: spellchecking">
+      <created>1587098588140</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587098588140</updated>
+    </task>
+    <task id="LOCAL-00008" summary="spellchecking">
+      <created>1587099579742</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587099579742</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prototype functions to change and view Help status of tables." />
+    <MESSAGE value="New files added for revenue and help functions." />
+    <MESSAGE value="TEST PUSH: Editing functions in revenue." />
+    <MESSAGE value="New functions in helpfunctions.js." />
+    <MESSAGE value="revenue.js: help needed on update functions." />
+    <MESSAGE value="revenue.js: spell checking.&#10;helpfunctions.js: tableHelped should change value to 0 to set table as no longer needing help" />
+    <MESSAGE value="App-test.js: Copied/edited functions from customer app for testing&#10;coupon.js: Changed spelling of validateCoupont() to validateCoupon()&#10;menu_operations.js: added async to add/remove functions, spellchecking&#10;orders.js: spellchecking" />
+    <MESSAGE value="spellchecking" />
+    <option name="LAST_COMMIT_MESSAGE" value="spellchecking" />
+  </component>
+</project>
